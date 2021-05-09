@@ -1,7 +1,14 @@
-## Kevin Kredit
+# Kevin Kredit
 
 Hello! I'm a software developer interested in programming languages, security, and quality. Besides tinkering with
 software I love history and hiking.
+
+I finished a master's degree in Applied Computer Science in December, 2020. I am working to publish my thesis on the
+"wicked problem" of encryption and exceptional access.
+
+The best way to reach me is at knkredit60 at gmail dot com. I'd love to hear from you.
+
+## Projects and Interests
 
 Some of my favorite talks and courses:
 
@@ -24,8 +31,3 @@ Below are links to a few of my projects on GitHub.
 - A web app with a React [frontend](https://github.com/kkredit/slp-therapy-tracker) and Rails
   [backend](https://github.com/kkredit/slp-therapy-tracker-backend)
 - A formal [resume](https://raw.githubusercontent.com/kkredit/resume/master/example/example-resume.pdf)
-
-I finished a master's degree in Applied Computer Science in December, 2020. I am working to publish my thesis on the
-"wicked problem" of encryption and exceptional access.
-
-The best way to reach me is at knkredit60 at gmail dot com. I'd love to hear from you.
