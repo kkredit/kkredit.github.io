@@ -17,17 +17,16 @@ Feel free to reach me at knkredit60 at gmail dot com.
 
 Some of my favorite talks and courses (in order of awesomeness):
 
-- Frontend Masters' ["Hardcore Functional Programming"](https://frontendmasters.com/courses/hardcore-js-v2/) and
-  ["Architecture"](https://frontendmasters.com/courses/hardcore-js-patterns/) in JavaScript, with Brian Lonsdorf
-- This Rich Hickey
-  [presentation](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/AreWeThereYet.md) on the epochal
-  time model used in Clojure, Elm, and Redux
-- This Uncle Bob Martin talk on clean architecture and
-  [domain driven design](https://www.youtube.com/watch?v=o_TH-Y78tt4)
+- Brian Lonsdorf covering ["Hardcore Functional Programming"](https://frontendmasters.com/courses/hardcore-js-v2/) and
+  ["Architecture"](https://frontendmasters.com/courses/hardcore-js-patterns/) in JavaScript for Frontend Masters 
+- [Rich Hickey](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/AreWeThereYet.md) presenting the
+  epochal time model used in Clojure, Elm, and Redux
+- [Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4) discussing clean architecture and domain driven design
 - [Tom7](https://www.youtube.com/watch?v=JcJSW7Rprio) building block storage devices out of the internet, Tetris emulators,
   and used Covid-19 tests
 - [Colm MacCárthaigh](https://www.youtube.com/watch?v=O8xLxNje30M) applying control systems theory to web services
-- [Jay Parlar](https://www.youtube.com/watch?v=FvNRlE4E9QQ) demonstrating the usefulness of lightweight formal methods
+- A tie between [Hillel Wayne](https://www.hillelwayne.com/talks/distributed-systems-tlaplus/) and
+  [Jay Parlar](https://www.youtube.com/watch?v=FvNRlE4E9QQ) demonstrating the usefulness of lightweight formal methods
 - [Gary Bernhart](https://www.destroyallsoftware.com/talks/boundaries) promoting the "functional core, imperative shell"
   architecture
 
